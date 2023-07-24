@@ -4,7 +4,7 @@ Schlawiner is a game of dice where you must reach numbers between 1 and 100 usin
 
 | Number | Dice Number | Possible Solution | Difference |
 |--------|-------------|-------------------|------------|
-| 53     | <img src="https://raw.githubusercontent.com/schl4win3r/.github/main/profile/four.svg" width="32" height="32" alt="4" title="4"> 4 6 1       | 4 + 60 - 10       | 1          |
+| 53     | <img src="https://raw.githubusercontent.com/schl4win3r/.github/main/profile/4.svg" width="24" height="24" alt="4" title="4"/>&nbsp;<img src="https://raw.githubusercontent.com/schl4win3r/.github/main/profile/6.svg" width="24" height="24" alt="6" title="6"/>&nbsp;<img src="https://raw.githubusercontent.com/schl4win3r/.github/main/profile/1.svg" width="24" height="24" alt="1" title="1"/>       | 4 + 60 - 10       | 1          |
 | 40     | 1 2 2       | 2 * (20 + 1)      | 2          |
 | 22     | 2 1 3       | 30 + 2 - 10       | 0          |
 | 96     | 5 1 5       | (500 - 10) / 5    | 2          |
